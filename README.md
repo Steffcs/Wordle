@@ -14,7 +14,9 @@ Unity Wordle Game is a Wordle clone built with Unity. In this game, players atte
 
 Include screenshots or gifs of your game here. For example, screenshots of the game in action, settings menu, or the start screen.
 
-![Gameplay Screenshot](path/to/gameplay_screenshot.png)
+
+
+<img width="350" alt="Screenshot 2024-06-22 at 2 24 39 AM" src="https://github.com/Steffcs/Wordle/assets/31247175/2f090847-c486-4107-998e-1a04126959b6">
 
 ## Installation
 
